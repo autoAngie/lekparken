@@ -21,7 +21,7 @@ Kan ju vara bra att kunna lägga in en länk [GitHub](http://github.com)
 
 Och bilder kan också länkas in:
 
-![GitHub Logo](/yoda.jpg)
+![GitHub Logo](/images-3.jpeg)
 
 
 
