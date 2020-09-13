@@ -21,7 +21,10 @@ Kan ju vara bra att kunna lägga in en länk [GitHub](http://github.com)
 
 Och bilder kan också länkas in:
 
-![GitHub Logo](/images-3.jpeg)
+![Yodacitat](images-3.jpeg)
+
+
+Finns såklart annat man kan göra, se tex denna [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
 
